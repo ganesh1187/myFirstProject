@@ -5,6 +5,8 @@ SpringBoot
 Hibernate
 
 Python
+Oracle
+Angular
 
 Thank you :)
 Final Copy!!!
