@@ -3,3 +3,5 @@ Hello Everyone, welcome to my learning goals.
 Java
 SpringBoot
 Hibernate
+
+Python
